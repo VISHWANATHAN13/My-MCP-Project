@@ -1,0 +1,13 @@
+age guess URL:
+
+"https://api.agify.io?name={your_name}"
+
+Gender Guess URL:
+
+"https://api.genderize.io?name={your_name}"
+
+joke URL:
+
+https://official-joke-api.appspot.com/random_joke
+
+REFER OFFICIAL DOCUMENTATION FOR OUTPUT FIELDS 
